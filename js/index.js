@@ -174,7 +174,7 @@
 //   case 7:
 //     console.log("yakshanba");
 //     break;
-//   case 8:
+//   default:
 //     console.log("bunday hafta kuni yoq");
 //     break;
 // }
@@ -240,7 +240,7 @@
 //   case 12:
 //     console.log("on ikkinchi");
 //     break;
-//   case 13:
+//   default:
 //     console.log("boshqa son yozing bu qiymat yoq");
 //     break;
 // }
